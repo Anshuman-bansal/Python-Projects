@@ -9,3 +9,4 @@ This is a simple Python script that simulates rolling two dice. The user can rol
 
 ## Installation  
 Clone the repository:  
+git clone https://github.com/Anshuman-bansal/dice-roller.git
