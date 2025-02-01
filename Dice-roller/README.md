@@ -7,6 +7,5 @@ This is a simple Python script that simulates rolling two dice. The user can rol
 - Displays results with a slight delay to simulate rolling.  
 - Allows the user to roll again or exit.  
 
-## Installation  
-Clone the repository:  
-git clone https://github.com/Anshuman-bansal/dice-roller.git
+## Outputs
+![image](https://github.com/user-attachments/assets/48048f6c-3ef9-4f4d-9bf9-6ecc70ef58c4)
