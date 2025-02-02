@@ -14,4 +14,8 @@ The script uses Python’s `random.choices()` function with a **weight distribut
 
 💡  Modify the `weights` list in `dice_biased.py` to change the probability of each number.
 
+## Sample output
+![image](https://github.com/user-attachments/assets/176a2299-d14a-4022-94dd-5517ac3f4efd)
+
+
 
